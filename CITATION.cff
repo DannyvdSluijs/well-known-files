@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Well-know files
+message: >-
+If you use this software, please cite it using the
+metadata from this file.
+type: software
+authors:
+- given-names: Danny Cornelis
+  name-particle: van der
+  family-names: Sluijs
+  email: danny.vandersluijs@icloud.com
+  orcid: 'https://orcid.org/0009-0001-2833-5211'
+  repository-code: 'https://github.com/DannyvdSluijs/well-known-files'
+  url: 'https://github.com/DannyvdSluijs/well-known-files'
+abstract: >-
+  This repository contains all well-known files you could
+  find in a GitHub repository.
+license: MIT
+version: 1.0.0
+date-released: '2025-01-13'
