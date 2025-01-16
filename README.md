@@ -77,7 +77,7 @@ of your repository, then GitHub automatically links to it from the repository la
 
 # Cname
 This file specifies the CNAMEs that should be directed to the generated site. It should be used in together with 
-GitHub Pages when using a custom domain 
+GitHub Pages when using a custom domain. 
 |                    |                                                                                                                                                                  |
 |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | File               | `CNAME`                                                                                                                                                   |
